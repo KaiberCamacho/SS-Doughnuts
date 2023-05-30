@@ -1,0 +1,20 @@
+/* NAVBAR */
+.Barra {
+    list-style-type: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: top;
+        -ms-flex-pack: top;
+            justify-content: top;
+    padding: 10rem;
+}
+
+.Links {
+    text-decoration: none;
+    color: black;
+    margin: 1.5rem;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
